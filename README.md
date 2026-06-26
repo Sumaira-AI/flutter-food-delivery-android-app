@@ -5,8 +5,8 @@ A modern and user-friendly Food Ordering Mobile Application built with Flutter &
 
 
 ## Getting Started
-🚀 App Features
-🔐 User Authentication — Secure Sign In & Sign Up using Firebase
+#🚀 App Features
+#🔐 User Authentication — Secure Sign In & Sign Up using Firebase
 👋 Welcome Screen — Smooth and engaging onboarding experience
 🏠 Home Screen — Browse featured food items and categories
 🔍 Search Functionality — Quickly find your favorite food items
